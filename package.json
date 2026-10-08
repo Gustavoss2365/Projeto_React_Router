@@ -1,0 +1,26 @@
+{
+  "name": "projeto_react_router",
+  "version": "1.0.0",
+  "description": "Projeto react e router aula 07/10/26",
+  "homepage": "https://github.com/Gustavoss2365/Projeto_React_Router#readme",
+  "bugs": {
+    "url": "https://github.com/Gustavoss2365/Projeto_React_Router/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavoss2365/Projeto_React_Router.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-router-dom": "^7.18.4",
+    "vite": "^8.3.3"
+  }
+}
